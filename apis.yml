@@ -1,0 +1,32 @@
+aid: api2convert
+name: Api2Convert
+description: "Online File Conversion API"
+url: https://www.api2convert.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: Api2Convert
+    description: "Online File Conversion API"
+    humanURL: https://www.api2convert.com/
+    baseURL: https://www.api2convert.com/
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://www.api2convert.com/
+common:
+  - type: Website
+    url: https://www.api2convert.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
