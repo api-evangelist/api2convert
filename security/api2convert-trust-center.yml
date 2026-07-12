@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://www.api2convert.com/security
+url: https://www.api2convert.com/security
+certifications:
+- ISO 27001
+- PCI DSS
+- GDPR
+evidence:
+- source: https://www.api2convert.com/security
+  keywords:
+  - iso/iec 27001
+  - pci dss
+  - gdpr
