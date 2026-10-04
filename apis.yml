@@ -33,13 +33,13 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - File Conversion
+  - Documents
 apis:
   - name: Api2Convert
     description: "Online File Conversion API"
     humanURL: https://www.api2convert.com/
-    baseURL: https://www.api2convert.com/
     tags:
       - Documents And Productivity
     properties:
@@ -59,3 +59,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
