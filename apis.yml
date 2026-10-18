@@ -40,7 +40,8 @@ apis:
   - name: Api2Convert
     description: "Online File Conversion API"
     humanURL: https://www.api2convert.com/
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
